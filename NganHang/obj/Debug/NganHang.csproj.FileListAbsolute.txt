@@ -1,0 +1,31 @@
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\bin\Debug\NganHang.exe
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\bin\Debug\NganHang.pdb
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.csprojResolveAssemblyReference.cache
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.DangNhap.resources
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.Cache
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.exe
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.pdb
+c:\users\vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.TrangChinh.resources
+C:\Users\Vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.ThongTinTaiKhoan.resources
+C:\Users\Vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.GuiTien.resources
+C:\Users\Vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.ChuyenTien.resources
+C:\Users\Vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.RutTien.resources
+C:\Users\Vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.DangKy.resources
+C:\Users\Vipper\documents\visual studio 2013\Projects\NganHang\NganHang\obj\Debug\NganHang.QuanLyKhacHang.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.exe
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.pdb
+G:\ \Tester\NganHang\NganHang\bin\Debug\NganHang.exe
+G:\ \Tester\NganHang\NganHang\bin\Debug\NganHang.pdb
+G:\ \Tester\NganHang\NganHang\obj\Debug\ResolveAssemblyReference.cache
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.ChuyenTien.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.DangKy.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.DangNhap.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.GuiTien.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.QuanLyKhacHang.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.RutTien.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.ThongTinTaiKhoan.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\NganHang.TrangChinh.resources
+G:\ \Tester\NganHang\NganHang\obj\Debug\GenerateResource.read.1.tlog
+G:\ \Tester\NganHang\NganHang\obj\Debug\GenerateResource.write.1.tlog
