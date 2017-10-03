@@ -251,7 +251,7 @@ namespace NganHang
             }
             bool kt = false;
             tdn = String.Format(txtCMND.Text);
-            SqlDataAdapter da_kt = new SqlDataAdapter("Select * from KhachHang where SDT='" + tdn + "'", ketnoi);
+            SqlDataAdapter da_kt = new SqlDataAdapter("Select * from KhachHang where CMND='" + tdn + "'", ketnoi);
             DataTable dt_kiemtra = new DataTable();
             da_kt.Fill(dt_kiemtra);
             if (dt_kiemtra.Rows.Count > 0)
