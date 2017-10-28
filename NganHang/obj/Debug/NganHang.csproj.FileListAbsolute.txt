@@ -45,3 +45,5 @@ C:\Users\Admin\Desktop\Tester\NganHang\obj\Debug\NganHang.ThongTinTaiKhoan.resou
 C:\Users\Admin\Desktop\Tester\NganHang\obj\Debug\NganHang.TrangChinh.resources
 C:\Users\Admin\Desktop\Tester\NganHang\obj\Debug\GenerateResource.read.1.tlog
 C:\Users\Admin\Desktop\Tester\NganHang\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vipper\Desktop\Tester\NganHang\obj\Debug\NganHang.exe
+C:\Users\Vipper\Desktop\Tester\NganHang\obj\Debug\NganHang.pdb

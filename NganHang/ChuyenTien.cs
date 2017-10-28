@@ -71,6 +71,8 @@ namespace NganHang
                 MessageBox.Show(" Nhập Sai ", "Thông Báo ", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
+        // chúng ta zo chương trình thêm sửa xóa nhửng gì minh cần vd công việc duoc phân là gì sau khi thao tác với nó xong
+        // thì
         protected override bool ProcessDialogKey(Keys keyData)
         {
             if (keyData == Keys.Escape)
